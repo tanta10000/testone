@@ -6,4 +6,5 @@
 17.测试16成功
 18.测试dev分支版本回退 测试命令为  git checkout test01.md 测试成功
 19.测试 git reset --hard HEAD^ 回退命令
+21.测试成功
 
