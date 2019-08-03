@@ -4,5 +4,5 @@
 15.当前dev的内容没有实现远程打包的
 16.测试 将dev 打包到远程仓库的dev分支
 17.测试16成功
-18.测试dev分支版本回退 测试命令为  git checkout test01.md
+18.测试dev分支版本回退 测试命令为  git checkout test01.md 测试成功
 
